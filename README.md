@@ -1,8 +1,5 @@
 # Hi there, my name is Max Willian 👋
 
-
-**maxwmsilva/maxwmsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h3>Here, know more about me:</h3>
 
 - 🔭 I’m currently working on my own Projects
